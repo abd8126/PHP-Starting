@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+/*(Multi Line Comment)
+echo "Hello World!";
+?>
+*/
+</body>
+</html>
