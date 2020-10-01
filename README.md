@@ -1,2 +1,2 @@
 # PHP-Starting
-Initial Starting of Php
+Lectures of PHP
